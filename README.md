@@ -36,11 +36,17 @@ Install Selenium
 
 Executing the test
 -
-Open up a terminal
-Naviate to the test folder
-run the following
+Download Pycharm IDE
+https://www.jetbrains.com/pycharm/download/#section=windows
+* Run and install
+* Open up Pycharm
+* File -> Open directory of project
+* Configure Python interpreter
+* File -> Setting -> Build, Execution, Deployment -> Console -> Python Console 
+![python_interpreter](https://user-images.githubusercontent.com/8264480/222023473-913801f3-5d03-42e7-86c3-a4d601a725a3.JPG)
+* Right click posit_test.py and select Run posit_test.py 
+![running_test](https://user-images.githubusercontent.com/8264480/222024113-043f9c7f-1be5-4ffd-9310-e67e5626c6ad.JPG)
 
-* python posit_test.py
 
 
 
