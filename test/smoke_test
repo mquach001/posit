@@ -1,0 +1,44 @@
+Login - Successful
+Login - Unsuccessful
+Logout - Successful
+Account - Upgrade - Successful
+Plans&Pricing - Free - Plus - Successful
+Plans&Pricing - Premium - List Price - Subscribe - Successful
+Plans&Pricing - Premium - Academic Research - Subscribe - Successful
+Plans&Pricing - Premium - Small Business - Subscribe - Successful
+Plans&Pricing - Premium - Small Business, Developing Country - Subscribe - Successful
+Plans&Pricing - Premium - Medium Size Business - Subscribe - Successful
+Plans&Pricing - Premium - Mediums Business, Developing Country - Subscribe - Successful
+Plans&Pricing - Instructor - Student pays - Subscribe - Successful
+Plans&Pricing - Instructor - Instructor pays - Subscribe - Successful
+Plans&Pricing - Instructor - School pays - Request Order Form - Successful
+Plans&Pricing - Organization - Request a Quote - Successful
+Authentication - Enable password Poseit - Changing Password - Successful
+Authentication - Enable password Google - Changing Password - Successful
+Authentication - Enable password GitHub - Changing Password - Successful
+Posit Password Change - Login - Successful
+Google Password Change - Login - Successful
+GitHub Password Change - Login - Successful
+Current System Status - Working - Successful
+Credentials - Add new credentials - Successful
+Credentials - Delete credentials - Successful
+Workspace - Create space - Successful
+Workspace - Delete space - Successful
+Workspace - Archive space - Successful
+Workspace - Upgrade Scenario - Successful
+New Project - Rstudio - Create - Successful
+New Project - Jupter - Create - Successful
+New Project - Github - Create - Successful
+New Project - Rstudio - Rename Project - Successful
+IDE - Loads - Successful
+IDE - Save - Successful
+IDE - Autosave - Successful
+IDE - Import Dataset - Successful
+IDE - Session - Restart - Successful
+IDE - Session - Set Working Director - Successful
+IDE - Session - Load Workspace - Successful
+IDE - Session - Save Workspace As - Successful
+IDE - Build - Configure Build Tools - Successful
+IDE - Debug - Successful
+Tools - Install Packages - Successful
+Tools - Terminal - Successful
